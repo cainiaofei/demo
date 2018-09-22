@@ -1,4 +1,4 @@
 branch A
 搞事情,制造冲突
 use git pull --rebase rather than git pull
-this is a normal operation 
+this is a normal operationhenqi
