@@ -1,1 +1,2 @@
 branch A
+use git pull --rebase rather than git pull
