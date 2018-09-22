@@ -1,2 +1,3 @@
 branch A
 use git pull --rebase rather than git pull
+this is a normal operation 
